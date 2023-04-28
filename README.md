@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">👩‍💻I am doing a master's degree in computer engineering<br><br>🔭 I’m currently working on Flutter and .NET<br><br>🌱 I’m currently learning everything about software 😂</p>
+<p align="left">👩‍💻I am doing a master's degree in computer engineering<br><br>🌱 I’m currently learning everything about software 😂</p>
 
 ###
 
